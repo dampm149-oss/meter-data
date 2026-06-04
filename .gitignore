@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+meter_data_*.xlsx
+.env
